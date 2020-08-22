@@ -2,6 +2,8 @@
 
 My name is Levi, I'm a designer and developer as well as a husband and father.
 
+I am a full-stack web developer with experience building enterprise web applications. Skilled in SQL, Java, and JavaScript frameworks. I specialize in Node.js, Angular, Typescript, and HTML5/CSS3, and have professional experience with Java, PostgreSQL.  I also have experience with React, Vue, Express, MongoDB, and Python.
+
 <!--
 **LeviBarker/LeviBarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
