@@ -1,6 +1,18 @@
-### Hi there 👋
+### Hi, my name is Levi 👋
 
-My name is Levi, I'm a full-stack web developer with experience building enterprise web applications. Skilled in SQL, Java, and JavaScript frameworks. I specialize in Node.js, Angular, Typescript, and HTML5/CSS3, and have professional experience with Java, PostgreSQL.  I also have experience with React, Vue, Express, MongoDB, and Python.
+I'm a full-stack web developer with experience building enterprise web applications. Skilled in SQL, Java, and JavaScript frameworks. I specialize in Node.js, Angular, Typescript, and HTML5/CSS3, and have professional experience with Java, PostgreSQL.  I also have experience with React, Vue, Express, MongoDB, and Python.
+
+### 🔭 I'm currently working on
+
+- Enterprise Web Application Development at [Capturis - an NISC company](https://capturis.com)
+- Freelance Mobile Application Development
+  - [Mighty Missouri Coffee Company](https://mightymissouri.com) (_iOS_ & _Android_ by using **Ionic 4** and **Firebase**)
+
+### 🌱 I’m currently learning
+
+- [GraphQL](https://graphql.org/)
+- [RxJS](https://rxjs.dev/)
+- [OAuth 2.0](https://oauth.net/2/)
 
 <!--
 **LeviBarker/LeviBarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
